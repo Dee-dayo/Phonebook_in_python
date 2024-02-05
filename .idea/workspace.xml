@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c31ea7e-8a96-460f-a123-9bc47e6b9932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pytest_phonebook_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c31ea7e-8a96-460f-a123-9bc47e6b9932" name="Changes" comment="added test files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +32,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for pytest_phonebook_app.test_phonebook_can_add_contact.executor": "Run",
     "Python tests.Python tests for test_phonebook_app.MyTestCase.test_phonebook_can_add_contact.executor": "Run",
     "Python tests.Python tests for unittest_phonebook_app.MyTestCase.executor": "Run",
     "Python tests.Python tests for unittest_phonebook_app.MyTestCase.test_phonebook_can_add_contact.executor": "Run",
     "Python tests.Python tests for unittest_phonebook_app.MyTestCase.test_phonebook_can_view_all_contacts.executor": "Run",
     "Python tests.Python tests for unittest_phonebook_app.MyTestCase.test_phonebook_cant_add_number_not_up_to_eleven.executor": "Run",
+    "Python tests.Python tests in pytest_phonebook_app.py.executor": "Run",
     "Python tests.Python tests in unittest_phonebook_app.py.executor": "Run",
     "Python.phonebook_app.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -165,15 +164,28 @@
       <workItem from="1706884450800" duration="315000" />
       <workItem from="1707117066613" duration="1430000" />
       <workItem from="1707152997764" duration="181000" />
-      <workItem from="1707153610716" duration="4882000" />
+      <workItem from="1707153610716" duration="5148000" />
     </task>
+    <task id="LOCAL-00001" summary="added test files">
+      <option name="closed" value="true" />
+      <created>1707159513658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707159513658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added test files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test files" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/phonebook_app$phonebook_app.coverage" NAME="phonebook_app Coverage Results" MODIFIED="1706865298695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/phonebook_app$.coverage" NAME=" Coverage Results" MODIFIED="1707159026625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/phonebook_app$.coverage" NAME=" Coverage Results" MODIFIED="1707159348374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
